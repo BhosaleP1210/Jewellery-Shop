@@ -1,4 +1,4 @@
-# ✨ Jewellery Shop - Luxury E-Commerce Web Application
+#  Jewellery Shop - Luxury E-Commerce Web Application
 
 [![React](https://img.shields.io/badge/React-19.2.5-blue.svg?logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8.0-646CFF.svg?logo=vite)](https://vitejs.dev/)
@@ -9,18 +9,18 @@ A modern, responsive, and elegant e-commerce web application crafted for luxury 
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
-- 💍 **Curated Collections & Categories**: Browse through dedicated collections like Rings, Necklaces, Earrings, Bracelets, and Watches.
-- 🛍️ **Interactive Product Catalog**: Real-time filtering, product browsing, and detailed item cards with high-definition visuals and pricing.
-- 🔍 **Rich Product Detail Pages**: In-depth product view with high-resolution imagery, specifications, descriptions, and dynamic "Add to Cart" interactions.
-- 🛒 **Full Cart Functionality**: Global state management powered by React Context API (`CartContext`) for adding, updating item quantities, calculating subtotals, and removing items.
-- 📬 **Contact & Inquiry Page**: Interactive contact form and store information for customer assistance.
-- 📱 **Fully Responsive & Modern UI**: Tailored with luxurious color palettes, smooth hover micro-animations, and clean typography optimized across mobile, tablet, and desktop viewports.
+-  **Curated Collections & Categories**: Browse through dedicated collections like Rings, Necklaces, Earrings, Bracelets, and Watches.
+-  **Interactive Product Catalog**: Real-time filtering, product browsing, and detailed item cards with high-definition visuals and pricing.
+-  **Rich Product Detail Pages**: In-depth product view with high-resolution imagery, specifications, descriptions, and dynamic "Add to Cart" interactions.
+-  **Full Cart Functionality**: Global state management powered by React Context API (`CartContext`) for adding, updating item quantities, calculating subtotals, and removing items.
+-  **Contact & Inquiry Page**: Interactive contact form and store information for customer assistance.
+-  **Fully Responsive & Modern UI**: Tailored with luxurious color palettes, smooth hover micro-animations, and clean typography optimized across mobile, tablet, and desktop viewports.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend Framework**: [React 19](https://react.dev/)
 - **Build Tool / Bundler**: [Vite](https://vitejs.dev/)
@@ -30,7 +30,7 @@ A modern, responsive, and elegant e-commerce web application crafted for luxury 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Jewellery-Shop/
@@ -59,7 +59,7 @@ Jewellery-Shop/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these steps to run the application locally on your machine.
 
@@ -98,7 +98,7 @@ Ensure you have [Node.js](https://nodejs.org/) (version 18+ recommended) install
 
 ---
 
-## 📄 Available Scripts
+##  Available Scripts
 
 In the `my-store` directory, you can run:
 
@@ -109,7 +109,7 @@ In the `my-store` directory, you can run:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/BhosaleP1210/Jewellery-Shop/issues).
 
